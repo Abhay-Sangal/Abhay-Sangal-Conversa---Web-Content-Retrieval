@@ -1,0 +1,30 @@
+/* frontend/src/App.css */
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+form {
+  margin: 10px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+h2 {
+  color: #007BFF;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
